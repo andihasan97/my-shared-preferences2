@@ -41,7 +41,7 @@ class FormUserPreferenceActivity : AppCompatActivity(), View.OnClickListener {
         var actionBarTitle = ""
         var btnTitle = ""
 
-        when (formType) {git
+        when (formType) {
             TYPE_ADD -> {
                 actionBarTitle = "Tambah Baru"
                 btnTitle = "Simpan"
